@@ -44,7 +44,7 @@ namespace CRC
             var buffer = new byte[reader.Length];
 
             reader.Read(buffer, 0, (int)reader.Length);
-
+            reader.Close();
             return Crc32(buffer);
         }
 

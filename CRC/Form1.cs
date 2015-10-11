@@ -15,6 +15,14 @@ namespace CRC
             InitializeComponent();
             Deserialize();        
             c = new crc32();
+
+            file f = new file(Application.ExecutablePath.ToString(), c.GetFileCrc(Application.ExecutablePath.ToString()));
+            if (!CompareCRC(f))
+            {
+                MessageBox.Show("crc не совпал");
+                throw new Exception("Error");
+            }
+            Serialize();
         }
 
         private void Serialize()
@@ -33,7 +41,7 @@ namespace CRC
             fs.Close();
         }
         
-        public void CompareCRC(file f)
+        public bool CompareCRC(file f)
         {
             int index = lf.FindIndex((fa) => fa.name == f.name);
             if (index >= 0)
@@ -41,17 +49,20 @@ namespace CRC
                 if (lf[index].crc == f.crc)
                 {
                     richTextBox1.Text += ("CRC файла " + f.name + " совпал\n");
+                    return true;
                 }
                 else
                 {
                     richTextBox1.Text += ("CRC файла " + f.name + " не совпал\n");
                     lf[index] = f;
+                    return false;
                 }
             }
             else
             {
                 lf.Add(f);
                 richTextBox1.Text += ("Файл " + f.name + " добавлен в базу\n");
+                return true;
             }
         }
 
