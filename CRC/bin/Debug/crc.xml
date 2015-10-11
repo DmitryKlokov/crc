@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <file>
+    <name>C:\Users\Дмитрий\Desktop\eclipse\.eclipseproduct</name>
+    <crc>3145237353</crc>
+  </file>
+  <file>
+    <name>C:\Users\Дмитрий\Desktop\eclipse\artifacts.xml</name>
+    <crc>498277732</crc>
+  </file>
+  <file>
+    <name>C:\Users\Дмитрий\Desktop\eclipse\eclipse.exe</name>
+    <crc>2173314917</crc>
+  </file>
+  <file>
+    <name>C:\Users\Дмитрий\Desktop\eclipse\eclipse.ini</name>
+    <crc>3007092168</crc>
+  </file>
+  <file>
+    <name>C:\Users\Дмитрий\Desktop\eclipse\eclipsec.exe</name>
+    <crc>4272760639</crc>
+  </file>
+  <file>
+    <name>C:\Users\Дмитрий\Desktop\eclipse\epl-v10.html</name>
+    <crc>4085384356</crc>
+  </file>
+  <file>
+    <name>C:\Users\Дмитрий\Desktop\eclipse\notice.html</name>
+    <crc>2794062325</crc>
+  </file>
+</ArrayOfFile>

@@ -1,0 +1,18 @@
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\bin\Debug\CRC.exe.config
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\obj\Debug\CRC.Form1.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\obj\Debug\CRC.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\obj\Debug\CRC.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\bin\Debug\CRC.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\bin\Debug\CRC.pdb
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\obj\Debug\CRC.exe
+C:\Users\Дмитрий\Documents\Visual Studio 2012\Projects\CRC\CRC\obj\Debug\CRC.pdb
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\bin\Debug\CRC.exe.config
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\bin\Debug\CRC.exe
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\bin\Debug\CRC.pdb
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\obj\Debug\CRC.Form1.resources
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\obj\Debug\CRC.Properties.Resources.resources
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\obj\Debug\CRC.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\obj\Debug\CRC.exe
+C:\Users\Дмитрий\Documents\GitHub\CRC\CRC\obj\Debug\CRC.pdb
