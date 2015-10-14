@@ -10,6 +10,7 @@ namespace CRC
     {
         crc32 c;
         List<file> lf;
+        uint abc = 0;
         public Form1()
         {
             InitializeComponent();
@@ -20,9 +21,10 @@ namespace CRC
             if (!CompareCRC(f))
             {
                 MessageBox.Show("crc не совпал");
-                throw new Exception("Error");
+                //throw new Exception("Error");
             }
             Serialize();
+            abc = 34;
         }
 
         private void Serialize()
